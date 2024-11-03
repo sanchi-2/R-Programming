@@ -8,3 +8,10 @@
   •	Identify Outliers
   •	Visualize Relationships Between Variables
 
+![](output1.png)
+![](output2.png)
+![](output3.png)
+![](output4.png)
+![](output5.png)
+![](output6.png)
+![](output7.png)
